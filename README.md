@@ -42,3 +42,10 @@ Created dashboards using Power BI and Tableau with:
 Delivered insights that helped optimize product offerings, improve client retention, and enhance operational efficiency with data-backed decisions.
 
 📌 This project demonstrates my ability to combine multiple tools for business insights and executive reporting.
+
+<img width="1220" height="765" alt="image" src="https://github.com/user-attachments/assets/1d985147-e15e-4207-a371-ba836d811232" />
+<img width="1876" height="923" alt="image" src="https://github.com/user-attachments/assets/21526550-85d9-4f5f-b478-5e2b44368c9e" />
+<img width="1878" height="946" alt="image" src="https://github.com/user-attachments/assets/142ce116-c5f9-4000-a020-12049c4f44ba" />
+
+
+
